@@ -3,7 +3,7 @@
 
 Message cipher based on Xor bitwise operation
 
-## Working Principle.
+## Working Principle
 Each character of your message is taken and a random character from 0 to 65536 is generated for it, as char in c# takes 2 bytes (Uint16). A bitwise mutual exclusion operator (Xor) is applied to both symbols and a new symbol is generated which we write to the encrypted message.
 All random characters are added together and we get a key that allows to return the encrypted message to its original state by performing an xor operator between the characters of the encrypted message and the key in their order
 
