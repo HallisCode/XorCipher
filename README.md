@@ -3,5 +3,5 @@
 
 Message cipher based on Xor bitwise operation
 
-## ***Requirements:***
+## ***Requirements***
 - *.NET 7.0*
