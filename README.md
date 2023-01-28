@@ -9,7 +9,7 @@ All random characters are added together and we get a key that allows to return 
 
 Useful links :
 1. Read more about xor-cipher here: https://en.wikipedia.org/wiki/XOR_cipher.
-2. Easy explanation : https://www.youtube.com/watch?v=xK_SqWG9w-Y
+2. Easy explanation : https://www.youtube.com/watch?v=xK_SqWG9w-Y.
 
 ## Requirements
 - *.NET 7.0*
