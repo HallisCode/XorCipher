@@ -8,7 +8,8 @@ Each character of your message is taken and a random character from 0 to 65536 i
 All random characters are added together and we get a key that allows to return the encrypted message to its original state by performing an xor operator between the characters of the encrypted message and the key in their order
 
 Read more about xor-cipher here: https://en.wikipedia.org/wiki/XOR_cipher.
-Ease explanation : https://www.youtube.com/watch?v=xK_SqWG9w-Y
+
+Easy explanation : https://www.youtube.com/watch?v=xK_SqWG9w-Y
 
 ## Requirements
 - *.NET 7.0*
