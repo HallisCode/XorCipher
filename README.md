@@ -1,5 +1,5 @@
 # XorCipher
-![.NET-7](https://img.shields.io/badge/.NET-7-blueviolet)![language](https://img.shields.io/badge/language-C#-blueviolet)
+![C#11.0](https://img.shields.io/badge/cSharp-11.0-blueviolet) ![.NET-7](https://img.shields.io/badge/.NET-7-blueviolet)
 
 Message cipher based on Xor bitwise operation
 
