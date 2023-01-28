@@ -88,7 +88,7 @@ namespace XorCipher
             string key = "";
 
             string messagePath = InputFilePath("Enter the path to the text file containing the encrypted message :");
-            string keyPath = InputFilePath("Enter the path to the text file, with the key :");
+            string keyPath = InputFilePath("Enter the path to the text file with the key :");
 
             using (StreamReader fileMessage = new StreamReader(messagePath))
             {
