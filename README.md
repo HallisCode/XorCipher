@@ -4,4 +4,4 @@
 Message cipher based on Xor bitwise operation
 
 ***Requirements:***
-- *.NET 7*
+- *.NET 7.0*
